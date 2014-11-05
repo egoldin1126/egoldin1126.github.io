@@ -1,0 +1,122 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1172" measuredH="1503" mockupW="1165" mockupH="1486">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::LinkBar" x="912" y="39" w="-1" h="-1" measuredW="198" measuredH="19" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20About%2C%20Recipes%2C%20Blog</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1156" y="39" w="-1" h="1459" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="552" y="17" w="48" h="-1" measuredW="48" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LOGO</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="151" y="36" w="124" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="11" y="39" w="-1" h="-1" measuredW="111" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Social%20Media%20Links</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="53" y="420" w="121" h="111" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="740" y="642" w="121" h="111" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="291" y="642" w="121" h="111" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Image" x="982" y="420" w="121" h="111" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="378" y="135" w="-1" h="-1" measuredW="295" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>List%20of%20popular%20food%20pairing</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::ComboBox" x="689" y="139" w="-1" h="-1" measuredW="85" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Link" x="1055" y="1483" w="-1" h="-1" measuredW="55" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>email%20link</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="975" y="1482" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contact%20US%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::VSplitter" x="11" y="805" w="1099" h="-1" measuredW="100" measuredH="11" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="170" y="531" w="121" h="111" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="861" y="531" w="121" h="111" measuredW="77" measuredH="79" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="861" y="309" w="121" h="111" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Image" x="174" y="309" w="121" h="111" measuredW="77" measuredH="79" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="740" y="198" w="121" h="111" measuredW="77" measuredH="79" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="291" y="198" w="121" h="111" measuredW="77" measuredH="79" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Image" x="412" y="368" w="328" h="215" measuredW="77" measuredH="79" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Most%20Popular%20Recipe</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::VSplitter" x="7" y="109" w="1096" h="-1" measuredW="100" measuredH="11" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Title" x="11" y="902" w="352" h="-1" measuredW="323" measuredH="43" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20Me%20Section</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="942" y="845" w="161" h="137" measuredW="77" measuredH="79" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Picture%20of%20Me</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="276" y="1036" w="585" h="301" measuredW="200" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Id%20mea%20quod%20ceteros%20gubergren%2C%20mel%20lorem%20melius%20omnium%20ea.%20Vim%20ferri%20equidem%20hendrerit%20ut.%20Id%20alia%20affert%20nam.%20Vis%20ut%20nominavi%20qualisque%20adipiscing.%0A%20%0AMel%20no%20lucilius%20philosophia%2C%20ad%20ius%20falli%20graeco.%20Dicit%20copiosae%20sententiae%20his%20eu%2C%20ferri%20impetus%20laboramus%20mel%20ea.%20Probo%20phaedrum%20postulant%20his%20ut%2C%20impedit%20inciderint%20cu%20his%2C%20eu%20dicta%20accusam%20liberavisse%20sit.%20Iriure%20accumsan%20consequat%20cu%20eum%2C%20eam%20et%20quaestio%20laboramus.%20Has%20ad%20sonet%20instructior%2C%20discere%20omittam%20vim%20in.%20Ea%20tale%20corrumpit%20qui.%0A%20%0AId%20agam%20evertitur%20eum.%20Ad%20eam%20soluta%20option%2C%20no%20sit%20elitr%20dolorem.%20Per%20ne%20assum%20legere%20iisque.%20Cibo%20duis%20expetenda%20no%20mei.%20Facete%20nonumes%20luptatum%20his%20in.%0A%20%0AAudire%20feugiat%20noluisse%20ut%20usu.%20Duo%20ut%20modus%20aperiam%2C%20eos%20facilisis%20neglegentur%20ut.%20No%20vim%20iriure%20iuvaret%20persequeris.%20Pri%20ei%20ullum%20commune%20vulputate%2C%20vel%20maluisset%20intellegat%20at.</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::VSplitter" x="11" y="1403" w="1099" h="-1" measuredW="100" measuredH="11" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Link" x="11" y="1483" w="-1" h="-1" measuredW="111" measuredH="19" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Social%20Media%20Links</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

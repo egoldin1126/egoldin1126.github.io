@@ -1,18 +1,18 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1197" measuredH="636" mockupW="1167" mockupH="619">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1128" measuredH="709" mockupW="1098" mockupH="692">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::LinkBar" x="30" y="27" w="-1" h="-1" measuredW="198" measuredH="19" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Home%2C%20About%2C%20Recipes%2C%20Blog</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1181" y="17" w="-1" h="619" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1112" y="17" w="-1" h="691" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="552" y="17" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>LOGO</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="1009" y="24" w="77" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="863" y="27" w="-1" h="-1" measuredW="111" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="810" y="24" w="124" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="975" y="27" w="-1" h="-1" measuredW="111" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Social%20Media%20Links</text>
       </controlProperties>
@@ -74,5 +74,21 @@
         <text>Category</text>
       </controlProperties>
     </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Link" x="975" y="689" w="-1" h="-1" measuredW="111" measuredH="19" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Social%20Media%20Links</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Link" x="110" y="689" w="-1" h="-1" measuredW="55" measuredH="19" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>email%20link</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="30" y="688" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contact%20US%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::VSplitter" x="30" y="657" w="1056" h="-1" measuredW="100" measuredH="11" zOrder="20" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>
