@@ -1,43 +1,39 @@
 
-
+body {
+font-family: 'Aladin', serif;
+}
 
 h1 {
-font-weight: 100;
-font-size: 100px;
+font-weight: 800;
+font-size: 64px;
 letter-spacing: 10px;
-  font-family: 'Aladin', serif;
 display: inline-block;
 }
 
 h2 {
-  font-family: 'Aladin', serif;
   font-weight:100;
   letter-spacing: 1.5px;
-  
-}
+  }
+
 hr {
   border-color: #59493B;
   margin: 10px 0px; 
   width: 300px;
-
-
 }
+
 p {
   font-family: 'Aladin', serif;
   font-size: 20px;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
   line-height: 30px;
   
 }
 
-.wrapper {
-  margin-left: 40px;
-  margin-top: 120px;
-  width:500px;
+#slogan {
+  font-size: 28px;
+  width: 40%;
+  display: inline-block;
 }
-
-
-
 
 
 
@@ -45,11 +41,23 @@ img {
   display: block;
   margin: 0 auto;
   clear: both;
-  width:250px;
+  width: 500px;
 }
 
 #MainPic {
 background: #fffebb;
+}
+
+
+div {
+  padding:10px;
+}
+
+
+.navbar {
+  background: #E4E0E0;
+  color: #F63535 ;
+  border-bottom: 1px solid black;
 }
 
 nav {
@@ -59,14 +67,22 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: black;
   margin: 30px;
   display:inline-block;
+  color: #F63535;
+}
+
+section {
+  background: #E4E0E0;
+  color: #F63535;
+  overflow: auto;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 footer {
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
-  border-top: 1px solid black;
   padding: 18px 0;
   margin-top: 40px;
   clear: both;

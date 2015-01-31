@@ -5,7 +5,7 @@ font-family: 'Aladin', serif;
 
 h1 {
 font-weight: 100;
-font-size: 7px;
+font-size: 32px;
 letter-spacing: 10px;
 display: inline-block;
 }
@@ -42,7 +42,7 @@ p {
 
 img {
   display: block;
-  margin: 10 auto;
+  margin: 0 auto;
   clear: both;
   width: 480px;
 }
@@ -52,7 +52,7 @@ background: #fffebb;
 }
 
 nav {
-  font-size: 222px;
+  font-size: 22px;
   float:right;
 }
 
